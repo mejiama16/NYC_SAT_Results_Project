@@ -1,6 +1,6 @@
 # NYC Community Schools Initiative: SAT Score Disparities Analysis
 
-**Course:** ECO225 | University of Toronto  
+**Course:** ECO225: Big Data Tools for Economists | University of Toronto  
 **Author:** Mariana Garcia Mejia
 
 ## Overview
