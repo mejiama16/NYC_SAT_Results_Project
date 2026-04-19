@@ -76,6 +76,6 @@ Two sets of regression models predicting Average Total SAT Score:
 - Address broader socioeconomic inequalities alongside academic 
   interventions
 
-  ## Repository Structure
+## Repository Structure
 - Code
 - Final Paper (PDF)
